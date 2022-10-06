@@ -1,0 +1,1 @@
+{{ ip4_addr }} {{ip6_addr }} {{ sw_name }} {{ node_location }} {{ node_type }} {{ node_model }} {{ current_ver }} {{ status }} {{ config_state | ORPHRASE }} {{ config_sync_time }} {{ config_id }} {{ release_type }}
